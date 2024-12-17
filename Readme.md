@@ -6,7 +6,6 @@ This project enhances the functionality of a calculator application built using 
 ![Calculator Enhancement Screenshot](./Calculator.png)
 
 ---
----
 
 ## Features
 
