@@ -3,6 +3,9 @@
 ## Overview
 This project enhances the functionality of a calculator application built using **WinForms** and **.NET Framework 4.8**. The enhancements include a refined user interface, audio features, improved interaction, and added functionality for both standard and scientific calculations.
 
+![Calculator Enhancement Screenshot](./Calculator.png)
+
+---
 ---
 
 ## Features
@@ -39,11 +42,6 @@ This project enhances the functionality of a calculator application built using 
 - **Dynamic Layout**: Seamless transitions between Standard and Scientific modes.
 - **Boot-Up Sound Effect**: Plays a sound during application startup.
 - **Error-Free Editing**: Allows character deletion without breaking equation evaluation.
-
----
-
-## Screenshot
-![Calculator Enhancement Screenshot](./Calculator.png)
 
 ---
 
